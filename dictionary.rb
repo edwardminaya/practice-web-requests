@@ -1,3 +1,4 @@
+# https://developer.wordnik.com/docs#!/word/getDefinitions
 api_key = "YOURAPIKEY"
 require "HTTP"
 
