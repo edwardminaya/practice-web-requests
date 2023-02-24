@@ -1,0 +1,3 @@
+#GET https://www.nytimes.com/crosswords/game/mini
+
+GET https://data.cityofchicago.org/resource/xzkq-xp2w.json
